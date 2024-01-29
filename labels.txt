@@ -1,0 +1,5 @@
+0 Kip
+1 Paard
+2 Kat
+3 Trex
+4 Capybara
